@@ -11,6 +11,7 @@ The struct car has three attrbutes and two functions:
 ### Functions:
 `setCar`
 `getCar`
+The setCar function is used to set the attributes of different cars whereas the getCar function is used to print the features of the particular car that user want.
 
 ### Author 
 - Haseeb Ahmad Siddiqui
