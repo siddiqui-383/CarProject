@@ -12,4 +12,6 @@ The struct car has three attrbutes and two functions:
 `setCar`
 `getCar`
 
+### Author 
+-Haseeb Ahmad Siddiqui
  
